@@ -1,7 +1,7 @@
 ## Hi there, I'm Ayoub EL Majjodi, 👋
 
 
-**ayoubGL/ayoubGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ayoubGL/ayoubGL** is a ✨ _special_ ✨ repository!!!
 
 Here are some ideas to get you started:
 
