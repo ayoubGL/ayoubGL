@@ -3,10 +3,12 @@
 
 **ayoubGL/ayoubGL** is a ✨ _special_ ✨ repository!!!
 
-Here are some ideas to get you started:
+Here I'm 
 
 - 🔭 I’m currently working as A Data Scientist
 - 🌱 I’m currently learning LLM, AI in Recommcner Systems
 - 📫 How to reach me: [ay.elmajjodi@gmail.com]
+
+All is Here 
 
  [More about me](https://ayoubmajjodi.info/)
