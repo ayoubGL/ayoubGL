@@ -9,6 +9,6 @@ Here I'm
 - 🌱 I’m currently learning LLM, AI in Recommcner Systems
 - 📫 How to reach me: [ay.elmajjodi@gmail.com]
 
-All is Here 
+All is Here -> [More about me](https://ayoubmajjodi.info/)
 
- [More about me](https://ayoubmajjodi.info/)
+ 
