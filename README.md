@@ -5,7 +5,7 @@
 
 Here I'm 
 
-- 🔭 I’m currently working as A Data Scientist
+- 🔭 I’m currently working as A Data Scientist / AI Engineer
 - 🌱 I’m currently learning LLM, AI for/in recommender systems
 - 📫 How to reach me: [ay.elmajjodi@gmail.com]
 
